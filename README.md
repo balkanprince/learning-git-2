@@ -1,1 +1,2 @@
-# learning-git-2
+# Learning Git Task
+aktualizacja README
